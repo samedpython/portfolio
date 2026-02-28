@@ -22,22 +22,13 @@ Live: https://clyrasafe.se
 
 ## 🏋️ MOVR
 
-Platform for sports clubs with shared backend and frontend architecture.
+**Sports Analytics · AI & Data · Social Platform**
 
-Multiple roles (admin, coach, athlete, parent) operate within the same club data using role-based views and scoped access.
+A modern sports performance platform connecting athletes, coaches, academies and agents through one intelligent ecosystem.
 
-Core features:
-- Onboarding with Cognito authentication
-- Club creation and invitation system
-- Schedule management with session publishing
-- Calls and RSVP system for members
+Currently in development.
 
-Tech stack:
-- Backend: NestJS + PostgreSQL
-- Frontend: Next.js / React
-- Role-based architecture with club scope logic
-
-Live: https://movrlabs.io
+Built as a full-scale club system where multiple roles (admin, coach, athlete, parent) operate within shared club data.
 
 ---
 
