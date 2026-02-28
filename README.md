@@ -44,8 +44,10 @@ Tech stack:
 - Shipping real systems, not just prototypes  
 - Security-first infrastructure  
 - Clean architecture with clear ownership  
-- Taking products from zero to production  
+- Taking products from zero to production
+
+Live: https://movrlabs.io
 
 ---
 
-Live: https://movrlabs.io
+
