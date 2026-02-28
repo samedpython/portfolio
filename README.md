@@ -22,7 +22,7 @@ Live: https://clyrasafe.se
 
 ## 🏋️ MOVR
 
-End-to-end platform for sports clubs with shared backend and frontend architecture.
+Platform for sports clubs with shared backend and frontend architecture.
 
 Multiple roles (admin, coach, athlete, parent) operate within the same club data using role-based views and scoped access.
 
