@@ -37,6 +37,8 @@ Tech stack:
 - Frontend: Next.js / React
 - Role-based architecture with club scope logic
 
+Live: https://movrlabs.io
+
 ---
 
 ## What I Focus On
@@ -46,7 +48,7 @@ Tech stack:
 - Clean architecture with clear ownership  
 - Taking products from zero to production
 
-Live: https://movrlabs.io
+
 
 ---
 
